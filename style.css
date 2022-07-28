@@ -3,8 +3,15 @@
     color: #4A4A4A;
 }
 
-.carousel-item:nth-child(1) {
-    background: rgba(29, 29, 29, 0.7);
+.banner::before {
+    content: "";
+    background: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.7;
 }
 .quote i{
     font-size: 50px;

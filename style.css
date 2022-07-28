@@ -19,3 +19,8 @@
     width: 65px;
     height: 65px;
 }
+.social-icon i{
+    padding: 10px;
+    font-size: 25px;
+    color: #fff;
+}

@@ -1,0 +1,8 @@
+#logo {
+    font-size: 40px;
+    color: #4A4A4A;
+}
+
+.carousel-item:nth-child(1) {
+    background: rgba(29, 29, 29, 0.7);
+}
